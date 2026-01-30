@@ -1,0 +1,23 @@
+data/outputs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node / Next
+node_modules/
+.next/
+dist/
+
+# OS
+.DS_Store
+
+# Env
+.env
+
+# frontend
+demo/frontend/node_modules
+demo/frontend/.next
+demo/frontend/dist
+demo/frontend/build
