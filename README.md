@@ -2,8 +2,7 @@
 **AI Agent for Privacy & Compliance Risk Assessment in Policy Documents**
 
 **프로젝트 정리 글 (Velog)**  
-[![Velog](https://img.shields.io/badge/Velog-Project%20Write--up-20C997?logo=velog&logoColor=white)](https://velog.io/@songing/...)
-🔗 https://velog.io/@songing/...
+[![Velog](https://img.shields.io/badge/Velog-Project%20Write--up-20C997?logo=velog&logoColor=white)](https://velog.io/@songing/Policy-Risk-Agent-%ED%9A%8C%EA%B3%A0-%EB%B6%84%EC%84%9D-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%9A%94%EC%B2%AD-%EB%8B%A8%EC%9C%84%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%9C%A0)
 
 ---
 
