@@ -338,6 +338,7 @@ export default function Page() {
             <section className="mt-6 rounded-2xl border bg-white p-6 shadow-sm">
               <div className="mb-3 flex items-center justify-between">
                 <h2 className="text-lg font-bold">Quick Checklist</h2>
+                <p className="checklist-note"> ※ 아래 항목은 정책 문서를 검토·개선하는 담당자를 위한 점검 기준입니다. </p>
                 <span className="text-sm text-neutral-500">바로 점검할 항목</span>
               </div>
 
