@@ -459,7 +459,9 @@ app.add_middleware(
 
 ---
 
+<!--
 ## 참고
 
 본 프로젝트는 Upstage AI Ambassador 지원 과제로 제작된
 AI Agent 서비스 프로토타입입니다.
+-->
